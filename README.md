@@ -11,3 +11,7 @@ MIT and while 'Space-BossTools' allows
 # Modpacks
 
 Can use in modpacks under license
+
+ 
+# Special Thanks
+* MrScautHD - https://github.com/MrScautHD
