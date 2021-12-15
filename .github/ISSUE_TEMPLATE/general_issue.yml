@@ -1,0 +1,17 @@
+name: General Issue
+description: ''
+body:
+  - type: input
+    attributes:
+      label: Minecraft Version
+      description: ''
+      placeholder: e.g. 1.16.5, 1.18.1
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Forge Version
+      description: ''
+      placeholder: e.g. 36.2.5, 39.0.0
+    validations:
+      required: true
