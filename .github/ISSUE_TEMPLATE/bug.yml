@@ -21,14 +21,14 @@ body:
     attributes:
       label: Space-BossTools Version or AstroCraft Version
       description: 'parent mod version'
-      placeholder: e.g. 1.16.5-5.5
+      placeholder: e.g. 1.16.5-5.5d
     validations:
       required: true
   - type: textarea
     attributes:
       label: The details
-      description: Reproduce steps, Crash Report, etc.
+      description: Reproduce Steps, Crash Report, etc.
       placeholder: |
-        1. Start by doing...
-        2. Next do...
-        3. See result described above
+        1. Reproduce Steps
+        2. Crash Report
+        3. ETC.
