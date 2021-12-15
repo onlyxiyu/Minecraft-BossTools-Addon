@@ -1,5 +1,5 @@
 name: Bug
-description: 'Bug'
+description: 'Reprot bug'
 assignees: gisellevonbingen
 labels: bug
 body:
@@ -17,3 +17,18 @@ body:
       placeholder: e.g. 36.2.5, 39.0.0
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Space-BossTools Version or AstroCraft Version
+      description: 'parent mod version'
+      placeholder: e.g. 1.16.5-5.5
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Bug 
+      description: If there are specific steps that need to be taken to reproduce the issue list them here.
+      placeholder: |
+        1. Start by doing...
+        2. Next do...
+        3. See result described above
