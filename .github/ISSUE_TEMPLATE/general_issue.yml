@@ -26,9 +26,5 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Bug 
-      description: If there are specific steps that need to be taken to reproduce the issue list them here.
-      placeholder: |
-        1. Start by doing...
-        2. Next do...
-        3. See result described above
+      label: The details
+      description: Reproduce steps, Crash Report, etc.
