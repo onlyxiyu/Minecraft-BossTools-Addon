@@ -1,6 +1,7 @@
 name: Bug
 description: 'Bug'
-assignees : gisellevonbingen
+assignees: gisellevonbingen
+labels: bug
 body:
   - type: input
     attributes:
