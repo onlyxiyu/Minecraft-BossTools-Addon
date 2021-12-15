@@ -29,4 +29,6 @@ body:
       label: The details
       description: Reproduce steps, Crash Report, etc.
       placeholder: |
-      Reproduce steps, Crash Report, etc.
+        1. Start by doing...
+        2. Next do...
+        3. See result described above
