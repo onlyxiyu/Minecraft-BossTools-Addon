@@ -1,5 +1,5 @@
 name: General Issue
-description: ''
+description: 'Issue'
 body:
   - type: input
     attributes:
