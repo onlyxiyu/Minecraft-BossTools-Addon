@@ -1,5 +1,6 @@
-name: General Issue
-description: 'Issue'
+name: Bug
+description: 'Bug'
+assignees : gisellevonbingen
 body:
   - type: input
     attributes:
