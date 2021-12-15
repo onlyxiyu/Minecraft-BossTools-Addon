@@ -1,7 +1,7 @@
 name: General
 description: 'General issue'
 assignees: gisellevonbingen
-labels:
+labels: []
 body:
   - type: textarea
     attributes:
