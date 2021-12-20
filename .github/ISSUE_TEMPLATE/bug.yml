@@ -19,7 +19,7 @@ body:
       required: true
   - type: input
     attributes:
-      label: ''Space-BossTools'' Version or ''Beyond Earth'' Version
+      label: '''Space-BossTools''' Version or '''Beyond Earth''' Version
       description: 'parent mod version'
       placeholder: e.g. 1.16.5-5.5d, 1.18.1-5.7
     validations:
