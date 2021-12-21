@@ -14,12 +14,12 @@ body:
     attributes:
       label: Forge Version
       description: 'your forge version'
-      placeholder: e.g. 36.2.5, 39.0.0
+      placeholder: e.g. 36.2.5, 39.0.5
     validations:
       required: false
   - type: input
     attributes:
-      label: Space-BossTools Version or Beyond Earth Version
+      label: Space-BossTools or Beyond Earth Version
       description: 'parent mod version'
       placeholder: e.g. 1.16.5-5.5d, 1.18.1-5.7
     validations:
@@ -28,7 +28,7 @@ body:
     attributes:
       label: Addon Mod Version (This Mod)
       description: 'addon mod version'
-      placeholder: e.g. 1.16.5-1.5, 1.18.1-0
+      placeholder: e.g. 1.16.5-1.5, 1.18.1-1.0
     validations:
       required: false
   - type: textarea
