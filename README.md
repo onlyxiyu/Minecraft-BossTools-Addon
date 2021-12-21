@@ -1,4 +1,4 @@
-# Space-BossTools-Addon
+# Space-BossTools-Addon, Beyond-Earth-Addon
 Just add good things in my think
 
 * 1.16.5 - https://github.com/gisellevonbingen/Minecraft-BossTools-Addon/tree/1.16.5
@@ -6,7 +6,7 @@ Just add good things in my think
 
 # License
 
-MIT and while 'Space-BossTools' allows
+MIT and while 'Space-BossTools', 'Beyond Earth' allows
 
 # Modpacks
 
