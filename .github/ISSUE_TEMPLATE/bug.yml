@@ -34,7 +34,7 @@ body:
   - type: textarea
     attributes:
       label: The details
-      description: Reproduce Steps, Crash Report (url from [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/)), etc.
+      description: Reproduce Steps, Crash Report (full copy or url from [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/)), etc.
       placeholder: |
         1. Reproduce Steps
         2. Crash Report
