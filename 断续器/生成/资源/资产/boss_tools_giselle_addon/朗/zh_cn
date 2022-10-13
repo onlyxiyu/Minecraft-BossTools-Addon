@@ -1,0 +1,90 @@
+{
+
+	"itemGroup.boss_tools_giselle_addon_tab_main": "太空-boss工具: 吉赛尔 Addon",
+	
+	"block.boss_tools_giselle_addon.fuel_loader": "燃油装载机",
+	"block.boss_tools_giselle_addon.electric_blast_furnace": "电动高炉",
+	"block.boss_tools_giselle_addon.advanced_compressor": "先进压缩机",
+	"block.boss_tools_giselle_addon.gravity_normalizer": "重力模拟器",
+	
+	"module.boss_tools_giselle_addon.space_breathing_unit": "太空呼吸装置",
+	"description.boss_tools_giselle_addon.space_breathing_unit": "可以在太空中呼吸-尺寸\n在下雨时也会用氧气填充固定的物品\n需要在背包中启用“氧气罐”",
+	"module.boss_tools_giselle_addon.space_fire_proof_unit": "空间防火装置",
+	"description.boss_tools_giselle_addon.space_fire_proof_unit": "不要在太空维度中放火烧玩家",
+	"module.boss_tools_giselle_addon.venus_acid_proof_unit": "维纳斯酸防化装置",
+	"description.boss_tools_giselle_addon.venus_acid_proof_unit": "不要在其他星系中受到酸雨的伤害",
+	"module.boss_tools_giselle_addon.gravity_normalizing_unit": "重力模拟单元",
+	"description.boss_tools_giselle_addon.gravity_normalizing_unit": "在太空维度中像主世界一样模拟化重力",
+	"description.boss_tools_giselle_addon.instead_gravity_normalizing_unit": "可以使用代替重力模拟化单元",
+	
+	"item.boss_tools_giselle_addon.oxygen_can": "氧气罐",
+	"item.boss_tools_giselle_addon.press_compressing_die": "压缩模块",
+	"item.boss_tools_giselle_addon.mold_compressing": "金属压缩模块制造： 压缩",
+	"item.jaopca.boss_tools_compresseds": "压缩中 %s",
+	
+	"description.boss_tools_giselle_addon.charge_mode": "充电模式",
+	
+	"enchantment.boss_tools_giselle_addon.space_breathing": "太空呼吸",
+	"enchantment.boss_tools_giselle_addon.space_breathing.desc": "可以在空间中呼吸\n使用能量或耐久\n需要在背包中启用“氧气罐”",
+	"enchantment.boss_tools_giselle_addon.gravity_normalizing": "重力模拟化",
+	"enchantment.boss_tools_giselle_addon.gravity_normalizing.desc": "在太空中像主世界一样模拟化重力\n使用能量或耐久性",
+	"enchantment.boss_tools_giselle_addon.space_fire_proof": "太空防火",
+	"enchantment.boss_tools_giselle_addon.space_fire_proof.desc": "不要在太空中放火烧玩家\n使用能量或耐久",
+	"enchantment.boss_tools_giselle_addon.venus_acid_proof": "维纳斯酸防护",
+	"enchantment.boss_tools_giselle_addon.venus_acid_proof.desc": "不要在太空中受到酸雨的伤害\n使用能量或耐用性",
+	
+	"container.boss_tools_giselle_addon.fuel_loader": "燃油装载机",
+	"container.boss_tools_giselle_addon.electric_blast_furnace": "电动高炉",
+	"container.boss_tools_giselle_addon.advanced_compressor": "先进压缩机",
+	"container.boss_tools_giselle_addon.gravity_normalizer": "重力模拟器",
+	
+	"gui.boss_tools_giselle_addon.auto_pull": "自动吸引",
+	"gui.boss_tools_giselle_addon.auto_eject": "自动弹出",
+	"gui.boss_tools_giselle_addon.workingarea.text": "工作区域: %1$sx%2$sx%3$s",
+	"gui.boss_tools_giselle_addon.workingarea.show": "显示",
+	"gui.boss_tools_giselle_addon.workingarea.hide": "隐藏",
+	
+	"gui.boss_tools_giselle_addon.flag_edit.title": "编辑标志",
+	"gui.boss_tools_giselle_addon.flag_edit.verify": "验证",
+	"gui.boss_tools_giselle_addon.flag_edit.verifying": "验证中",
+	"gui.boss_tools_giselle_addon.flag_edit.save": "保存",
+	"gui.boss_tools_giselle_addon.flag_edit.warning": "※ 警告: 无法渲染",
+	
+	"compressormode.boss_tools.compressing": "压缩",
+	"compressormode.boss_tools_giselle_addon.rolling": "轧制",
+	"compressormode.boss_tools_giselle_addon.extruding": "挤压",
+	
+	"chargemode.boss_tools_giselle_addon.none": "禁用",
+	"chargemode.boss_tools_giselle_addon.armors": "启用：所有护甲",
+	"chargemode.boss_tools_giselle_addon.all": "启用: 所有 库存",
+	
+	"jei.category.boss_tools_giselle_addon.space_station": "空间站",
+	"jei.info.boss_tools_giselle_addon.space_station": "空间站的\n创造成分",
+	
+	"jei.category.boss_tools_giselle_addon.rolling": "压缩机 - 轧制",
+	"jei.category.boss_tools_giselle_addon.extruding": "压缩机 - 挤压",
+	"jei.tooltip.boss_tools_giselle_addon.incompatible_mode1": "不兼容模式",
+	"jei.tooltip.boss_tools_giselle_addon.incompatible_mode2": "需要更改为 '%s' 模式",
+	"jei.category.boss_tools_giselle_addon.fuel_loader": "燃油装载机",
+	"jei.info.boss_tools_giselle_addon.fuel_loader": "内部流体罐可以接收 '%2$s' \n将燃料提供给 '漫游者' 或者 '火箭' 在 %1$s 方块.",
+	"jei.info.boss_tools_giselle_addon.gravity_normalizer": "模拟化实体的重力，就像在范围内的主世界一样",
+	
+	"jei.category.boss_tools_giselle_addon.alien_trading": "外星交易",
+	"jer.text.boss_tools_giselle_addon.alien_trading.notneeded": "不需要",
+	"jer.dim.boss_tools:moon": "Space-BossTools:月球",
+	"jer.dim.boss_tools:mars": "Space-BossTools:火星",
+	"jer.dim.boss_tools:mercury": "Space-BossTools: 水星",
+	"jer.dim.boss_tools:venus": "Space-BossTools: 金星",
+	
+	"biome.boss_tools.orbit": "轨道",
+	"biome.boss_tools.infernal_venus_barrens": "金星贫瘠/地狱",
+	"biome.boss_tools.venus": "金星",
+	"biome.boss_tools.mercury": "水星",
+	"biome.boss_tools.mars": "火星",
+	"biome.boss_tools.venus_hills": "金星山脉",
+	"biome.boss_tools.moon": "月球",
+	"biome.boss_tools.mercury_magma": "水星岩浆",
+	"biome.boss_tools.mars_ice_spike": "火星冰",
+	
+	"_eof": "eof"
+  }
